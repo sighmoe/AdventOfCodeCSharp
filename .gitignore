@@ -1,0 +1,5 @@
+.vs/*
+AdventOfCodeCSharp.sln
+AdventOfCodeCSharp/AdventOfCodeCSharp.csproj
+AdventOfCodeCSharp/bin/*
+AdventOfCodeCSharp/obj/*
